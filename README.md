@@ -7,7 +7,7 @@ E-Commerce Website for selling groceries online.
 ### 🔗 Links
 
 - [Live Site](https://groceyish.vercel.app/)
-- [Source Repo](https://github.com/ghostson1120/Groceyish)
+- [Source Repo](https://github.com/ghostson1120/vue-strapi-ecommerce)
 
 ### ☑️ To Do
 
